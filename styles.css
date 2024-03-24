@@ -13,6 +13,7 @@ body  {
     width: 500px;
     height: 800px;
     margin-left: 500px;
+  
   }
   
   h1 {
@@ -55,3 +56,7 @@ body  {
     border-width: 1px;
   
   }
+.icons {
+  padding-top: 15px;
+}
+
